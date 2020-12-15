@@ -13,7 +13,7 @@
   + Run Your favorite code editor and add library of chosen language to Your project
     + C# library in path ./Lib/cs/
     + [Python library](https://pypi.org/project/robocadSimPy/) or 'pip install robocadSimPy' in cmd
-    + C++ library files in path ./Lib/cpp/ ([How to include](https://github.com/CADindustries/robocadSim/blob/main/cpp/how_to_include.md))
+    + C++ library files in path ./Lib/cpp/ ([How to include](https://robocadsim.readthedocs.io/en/latest/docs/all_docs/lib_docs/cpp/index.html))
   + Turn on robot and run Your program!  
     
     
