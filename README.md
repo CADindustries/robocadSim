@@ -8,7 +8,7 @@
 **About:** robocadSim is a 3D robot simulator. 
   
 **Getting started:**
-  + Download latest version of robocadSim ([Latest Version](https://github.com/CADindustries/robocadSim/tree/robocadSim_v1.3))
+  + Download latest version of robocadSim ([Latest Version](https://github.com/CADindustries/robocadSim/tree/latest))
   + Run .exe file of robocadSim 
   + Run Your favorite code editor and add library of chosen language to Your project
     + C# library in path ./Lib/cs/
