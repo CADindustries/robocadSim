@@ -8,8 +8,6 @@
 <h3>About:</h3>  
   
 robocadSim is a 3D robot simulator. 
-
----
   
 <h3>Getting started:</h3>  
 
@@ -23,8 +21,7 @@ robocadSim is a 3D robot simulator.
   
   Read more about how to get started [here](https://robocadsim.readthedocs.io/en/latest/docs/getting_started/getting_started.html)
     
-    
-  **Available languages:**
+<h3>Available languages:</h3>  
   
 <p>
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="py logo">
