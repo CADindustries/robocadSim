@@ -8,6 +8,8 @@
 <h3>About:</h3>  
   
 robocadSim is a 3D robot simulator. 
+
+---
   
 <h3>Getting started:</h3>  
 
