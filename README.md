@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">robocadSim</h1>
 
-<h3>About:<h3>  
+<h3>About:</h3>  
   
 robocadSim is a 3D robot simulator. 
   
