@@ -29,8 +29,8 @@ robocadSim is a 3D robot simulator.
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cpp logo">
 </p>
 
-    
-  **Found a bug or need for help? Contact me:**
+<h3>Found a bug or need for help? Contact me:</h3>  
+
   + Inst: [robocadsim](https://www.instagram.com/robocadsim/)
   + Email: robocadsim@gmail.com
   + Facebook: [RobocadSim](https://www.facebook.com/robocadsim/)
