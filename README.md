@@ -14,7 +14,9 @@
     + C# library in path ./Lib/cs/
     + [Python library](https://pypi.org/project/robocadSimPy/) or 'pip install robocadSimPy' in cmd
     + C++ library files in path ./Lib/cpp/ ([How to include](https://robocadsim.readthedocs.io/en/latest/docs/all_docs/lib_docs/cpp/index.html))
-  + Turn on robot and run Your program!  
+  + Turn on robot and run Your program!   
+  
+  Read more about how to get started [here](https://robocadsim.readthedocs.io/en/latest/docs/getting_started/getting_started.html)
     
     
   **Available languages:**
