@@ -16,17 +16,18 @@ robocadSim is a 3D robot simulator.
   + Run Your favorite code editor and add library of chosen language to Your project 
     + [C# library GitHub](https://github.com/CADindustries/robocadSim-CS) or [C# library Nuget](https://www.nuget.org/packages/robocadSimCS)
     + [Python library GitHub](https://github.com/CADindustries/robocadSim-Py) or [Python library PyPi](https://pypi.org/project/robocadSimPy/)
-    + C++ library files in path ./Lib/cpp/ ([How to include](https://robocadsim.readthedocs.io/en/latest/docs/all_docs/lib_docs/cpp/index.html))
   + Turn on robot and run Your program!   
   
   Read more about how to get started [here](https://robocadsim.readthedocs.io/en/latest/docs/getting_started/getting_started.html)
     
 <h3>Available languages:</h3>  
+
+[//]: # (CPP is not available in v1.3.7)
+[//]: # (<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cpp logo">)
   
 <p>
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="py logo">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="cs logo">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cpp logo">
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="cs logo">  
 </p>
 
 <h3>Found a bug or need for help? Contact me:</h3>  
@@ -45,3 +46,4 @@ robocadSim is a 3D robot simulator.
   - 1.3.5 - Added menu for robot selection and menu for field selection  
   - 1.3.6 - New physics, robot moves normally
     - 1.3.6.1 - Many bugs fixed, channels stabilized, works faster
+  - 1.3.7 - Channels on TCP/IP and more stable. More comfortable libraries
