@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/CADindustries/robocadSim/tree/robocadSim_v1.3">
+  <a href="https://robocadsim.readthedocs.io/en/latest/index.html">
     <img src="https://github.com/CADindustries/robocadSim-docs/blob/main/docs/source/res/Logo_4_alpha.png" alt="robocadSim logo" width="200" height="200">
   </a>
 </p>
