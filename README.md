@@ -14,8 +14,8 @@ robocadSim is a 3D robot simulator.
   + Download latest version of robocadSim 
   + Run .exe file of robocadSim 
   + Run Your favorite code editor and add library of chosen language to Your project 
-    + [C# library GitHub](https://github.com/CADindustries/robocadSim-CS) or [C# library Nuget](https://www.nuget.org/packages/robocadSimCS)
-    + [Python library GitHub](https://github.com/CADindustries/robocadSim-Py) or [Python library PyPi](https://pypi.org/project/robocadSimPy/)
+    + [C# library GitHub](https://github.com/CADindustries/robocadSim-CS) or [C# library Nuget](https://www.nuget.org/packages/robocadSimCS) (not available now)
+    + [Python library GitHub](https://github.com/CADindustries/robocadSim-Py) or [Python library PyPi](https://pypi.org/project/robocadSimPy/) (not available now)
   + Turn on robot and run Your program!   
   
   Read more about how to get started [here](https://robocadsim.readthedocs.io/en/latest/docs/getting_started/getting_started.html)
