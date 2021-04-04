@@ -50,3 +50,4 @@ robocadSim is a 3D robot simulator.
     - 1.3.6.1 - Many bugs fixed, channels stabilized, works faster
   - 1.3.7 - Channels on TCP/IP and more stable. More comfortable libraries
  - 1.4 - RE21base added, RE21mini is not available now. All packages and libraries are not available now. New good shadows and shaders. TeleOp mode added. New camera rotator added (but old is better). New robot physics. Now traffic lights, traffic signs, trash bins and balls have normal physics too. Now you there are some settings in settings menu and almost all of them work. New awful design. But there are still lots of bugs :)
+   - 1.4.1 - Fixed wheels rotation
