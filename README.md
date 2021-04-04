@@ -24,10 +24,12 @@ robocadSim is a 3D robot simulator.
 
 [//]: # (CPP is not available in v1.3.7)
 [//]: # (<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cpp logo">)
+[//]: # (C# and Python are not available in v1.4.0)
+[//]: # (<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="py logo">)
+[//]: # (<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="cs logo">)
   
 <p>
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="py logo">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="cs logo">  
+  ---
 </p>
 
 <h3>Found a bug or need for help? Contact me:</h3>  
