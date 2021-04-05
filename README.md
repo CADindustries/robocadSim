@@ -38,7 +38,7 @@ robocadSim is a 3D robot simulator.
     + [Studica Robotics](https://www.instagram.com/studicacom/)
     + [Eldar Seydametov](https://www.instagram.com/eldar_seydametov/)
   + Code blocks sponsors:
-    + [Vitala Chuchakovich](https://www.instagram.com/sodium_hydrocarbonade/)
+    + [Vitala Tikhonov](https://www.instagram.com/sodium_hydrocarbonade/)
 
 <h3>Found a bug or need for help? Contact me:</h3>  
 
