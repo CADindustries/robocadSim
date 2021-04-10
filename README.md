@@ -63,3 +63,4 @@ robocadSim is a 3D robot simulator.
    - 1.4.1 - Fixed wheels rotation
      - 1.4.1.1 - Control panel fixed (colors of containers and balls changed incorrectly). The names of the zones have changed, now they are called as original (QR codes for them changed too). Task panel changed a bit
      - 1.4.1.2 - Main menu changes: RE21base image added, E21 image remade
+   - 1.4.2 - Now you can program RE21base using C# library. 
