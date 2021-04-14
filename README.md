@@ -65,3 +65,4 @@ robocadSim is a 3D robot simulator.
      - 1.4.1.2 - Main menu changes: RE21base image added, E21 image remade
    - 1.4.2 - Now you can program RE21base using C# library. But camera still doesn't work. You should restart robot before every program deployment
      - 1.4.2.1 - Camera on RE21base works now
+   - 1.4.3 - WUDS (Wait Until Data is Sent) mode added
