@@ -42,6 +42,15 @@ robocadSim is a 3D robot simulator.
   + Anime sponsors:
     + [Fanil Batyrshin](https://www.instagram.com/batirshin_f/)
 
+<h3>How does it look like?</h3> 
+
+<p>
+  <img src="https://github.com/CADindustries/robocadSim-docs/blob/main/docs/source/res/rcs_example_2.PNG" alt="ex 2">
+</p>
+<p>
+  <img src="https://github.com/CADindustries/robocadSim-docs/blob/main/docs/source/res/rcs_example_1.PNG" alt="ex 1">
+</p>
+
 <h3>Found a bug or need for help? Contact me:</h3>  
 
   + Inst: [robocadsim](https://www.instagram.com/robocadsim/)
