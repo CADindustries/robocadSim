@@ -7,7 +7,7 @@
 
 <h3>About:</h3>  
   
-robocadSim is a 3D robot simulator. 
+robocadSim is a 3D robot simulator. This is robocadSim users repo. [Here is the repo for developers.](https://github.com/CADindustries/robocadSim-dev)
   
 <h3>Getting started:</h3>  
 
