@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://robocadsim.readthedocs.io/en/latest/index.html">
-    <img src="https://github.com/CADindustries/robocadSim-docs/blob/main/docs/source/res/Logo_4_alpha.png" alt="robocadSim logo" width="200" height="200">
+    <img src="https://github.com/CADindustries/robocadSim-docs/blob/main/docs/source/res/logo_rcs.png" alt="robocadSim logo" width="300" height="300">
   </a>
 </p>
 <h1 align="center">robocadSim</h1>
